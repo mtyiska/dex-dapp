@@ -1,23 +1,18 @@
-Typescript
-This built with scaffold.eth. The directories that you'll use are:
+# This built with scaffold.eth. The directories that you'll use are:
 
 packages/react-app/
 packages/hardhat/
-Quick Start
-Running the app
 
-install your dependencies
+# Quick Start
 
-yarn install
-start a hardhat node
+1. install your dependencies
+   yarn install
 
-yarn chain
-run the app, open a new command prompt
+2. start a hardhat node
+   yarn chain
 
-# deploy your hardhat contracts
+3. deploy your hardhat contracts
+   yarn deploy
 
-yarn deploy
-
-# start react
-
-yarn start
+4. start react
+   yarn start
