@@ -1,18 +1,26 @@
 # This built with scaffold.eth. The directories that you'll use are:
 
+# Live Demo
+
+https://maddening-balance.surge.sh/
+
 packages/react-app/
 packages/hardhat/
 
 # Quick Start
 
-1. install your dependencies
-   yarn install
+# install your dependencies
 
-2. start a hardhat node
-   yarn chain
+yarn install
 
-3. deploy your hardhat contracts
-   yarn deploy
+# start a hardhat node
 
-4. start react
-   yarn start
+yarn chain
+
+# deploy your hardhat contracts
+
+yarn deploy
+
+# start react
+
+yarn start
